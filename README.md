@@ -1,1 +1,1 @@
-# zombs2-io
+# Zombs
