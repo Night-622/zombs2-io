@@ -8,9 +8,9 @@ import { getDatabase } from "firebase/database";
 // Your Firebase configuration
 const firebaseConfig = {
   apiKey: "AIzaSyDUL2hCXbG8WDW1XuLb3c-37rn4pkOHPWY",
-  authDomain: "zomb-io.firebaseapp.com",
-  projectId: "zomb-io",
-  storageBucket: "zomb-io.firebasestorage.app",
+  authDomain: "zombs.firebaseapp.com",
+  projectId: "zombs",
+  storageBucket: "zombs.firebasestorage.app",
   messagingSenderId: "1073795238758",
   appId: "1:1073795238758:web:64c7a311ff0d38c7b116a7",
   measurementId: "G-FH2H7H34ZB"
